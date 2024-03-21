@@ -18,17 +18,18 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
   <p align="center">
-  <img src="https://github.com/dtm03/mUNIted/assets/101354579/bf200ae7-ad2f-4d65-8b73-1fa5647bb87c" alt="image" width="300" height="300">
+  <img src="https://github.com/dtm03/mUNIted/assets/101354579/bf200ae7-ad2f-4d65-8b73-1fa5647bb87c" alt="image" width="200" height="200">
 </p>
 
 
@@ -91,7 +92,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/dtm03/mUNIted/contributors
+[contributors-url]:https://github.com/dtm03/mUNIted/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/dtm03/mUNIted/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
