@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Nico, Lukas and I started this project as part of the module "software engineering" during our studies of computer science in Munich. It was our first experience with Flutter.
+Nico, Lucas and I started this project as part of the module "software engineering" during our studies of computer science in Munich. It was our first experience with Flutter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
